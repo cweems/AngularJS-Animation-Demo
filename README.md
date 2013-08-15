@@ -11,7 +11,7 @@ $ cd your-dev-folder
 $ git clone https://github.com/cweems/AngularJS-Animation-Demo.git
 ```
 
-After cloning the repo, do this to get started:
+After cloning the repo, do this to start a node server so that you can view your edits in the browser:
 
 ```shell
 $ cd AngularJs-Animation–Demo

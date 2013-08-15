@@ -18,4 +18,6 @@ $ cd AngularJs-Animation–Demo
 $ node ./scripts/web-server.js
 ```
 
+Navigate your browser to localhost:8000/index.html
+
 Note that you'll need to have node installed.
